@@ -1,0 +1,8 @@
+{
+  "name": "ionicSocialBridge",
+  "app_id": "1835bc99",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
